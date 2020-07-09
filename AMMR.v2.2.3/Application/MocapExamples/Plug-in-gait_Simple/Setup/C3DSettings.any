@@ -22,7 +22,7 @@ Main.ModelSetup.C3DFileData = {
    MarkerDrawOnOff = On;
    
                                     
-   MarkerFilterIndex = -1;
+   MarkerFilterIndex = 1;
    AnalogFilterIndex = 1;    
    
    MarkerBsplineOrder = 4;
