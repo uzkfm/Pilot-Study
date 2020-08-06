@@ -4,7 +4,7 @@ Main.EnvironmentModel.ForcePlates =
   //-------- Predictive forceplate for the right leg
   // See: #include "<ANYBODY_PATH_AMMR>/Tools/GRFPrediction/FootPlateConditionalContact.any"
   FootPlateConditionalContact GRF_Prediction_Right(
-  NORMAL_DIRECTION = "Y",
+  NORMAL_DIRECTION = "Z",
   NUMBER_OF_NODES = 25,
   NODES_FOLDER = FootNodes,
   SHOW_TRIGGER_VOLUME = ON,
