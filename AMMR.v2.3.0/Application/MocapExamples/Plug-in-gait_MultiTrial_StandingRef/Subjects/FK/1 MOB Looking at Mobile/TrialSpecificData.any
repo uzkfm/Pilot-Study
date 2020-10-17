@@ -4,19 +4,19 @@ Main.ModelSetup.TrialSpecificData =
   // The trial(s) from which segment scaling and marker parameters are 
   // loaded from. This default to the current trial itself, if nothing is 
   // specififed.
-  LoadParametersFrom = {"S1_StandingRef"};
+  LoadParametersFrom = {"001"};
   
   // This is the name of the trial c3d file without extension. 
   // Here we assume the c3d file has the same name as the mainfile directory.
-  TrialFileName = MOCAP_NAME_MAINFILEDIR;
+  TrialFileName = "003";
   
   // This the C3D frame where the analysis starts
   // If not specified it defaults to the first frame of the C3D file
-  FirstFrame = .C3DFileData.Header.FirstFrameNo+10;
+  FirstFrame = .C3DFileData.Header.FirstFrameNo;
   
   // This the C3D frame where the analysis ends
   // If not specified it defaults the first frame of the C3D file
-  LastFrame = .C3DFileData.Header.LastFrameNo-10;
+  LastFrame = .C3DFileData.Header.LastFrameNo;
 
   // tStart specifies the time of the analysis. Setting this overrides 
   // the 'FirstFrame' value
