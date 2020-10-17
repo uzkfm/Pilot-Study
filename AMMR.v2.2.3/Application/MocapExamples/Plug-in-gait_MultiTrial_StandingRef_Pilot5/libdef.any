@@ -1,0 +1,7 @@
+#ifndef ANYBODY_PATH_OUTPUT
+#path ANYBODY_PATH_OUTPUT "Output/FK/"
+#endif
+
+#include "../libdef.any"
+
+
