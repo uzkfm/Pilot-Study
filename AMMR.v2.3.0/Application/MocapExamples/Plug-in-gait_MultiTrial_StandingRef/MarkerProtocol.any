@@ -4,13 +4,13 @@
  #define _RPSI
  #define _RASI 
  #define _LASI 
-// #define _RFHD 
-// #define _LFHD 
-// #define _RBHD 
-// #define _LBHD 
+ #define _RFHD 
+ #define _LFHD 
+ #define _RBHD 
+ #define _LBHD 
  #define _STRN 
  #define _CLAV 
-// #define _T10 
+ #define _T10 
  #define _C7 
  #define _RTHI 
  #define _RKNE 
@@ -29,18 +29,18 @@
  
  #define _RSHO
  #define _LSHO
-// #define _RUPA
-// #define _LUPA
-// #define _RELB
-// #define _LELB
-// #define _LFRA
-// #define _RFRA
-// #define _RWRA
-// #define _RWRB
-// #define _LWRA
-// #define _LWRB
-// #define _RFIN
-// #define _LFIN
+ #define _RUPA
+ #define _LUPA
+ #define _RELB
+ #define _LELB
+ #define _LFRA
+ #define _RFRA
+ #define _RWRA
+ #define _RWRB
+ #define _LWRA
+ #define _LWRB
+ #define _RFIN
+ #define _LFIN
 
 #ifdef _LPSI
 // Marker on the Left Posterior Superior Iliac
