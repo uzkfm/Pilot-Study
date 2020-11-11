@@ -1,5 +1,5 @@
 #ifndef ANYBODY_PATH_OUTPUT
-#path ANYBODY_PATH_OUTPUT "Output/FK/"
+#path ANYBODY_PATH_OUTPUT "Output/KI/"
 #endif
 
 #include "../libdef.any"
