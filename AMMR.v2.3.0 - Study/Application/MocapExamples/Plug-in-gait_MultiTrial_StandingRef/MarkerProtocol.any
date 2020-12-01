@@ -29,18 +29,18 @@
  
  #define _RSHO
  #define _LSHO
-// #define _RUPA
-// #define _LUPA
-// #define _RELB
-// #define _LELB
-// #define _LFRA
-// #define _RFRA
-// #define _RWRA
-// #define _RWRB
-// #define _LWRA
-// #define _LWRB
-// #define _RFIN
-// #define _LFIN
+ #define _RUPA
+ #define _LUPA
+ #define _RELB
+ #define _LELB
+ #define _LFRA
+ #define _RFRA
+ #define _RWRA
+ #define _RWRB
+ #define _LWRA
+ #define _LWRB
+ #define _RFIN
+ #define _LFIN
 
 #ifdef _LPSI
 // Marker on the Left Posterior Superior Iliac

@@ -8,8 +8,8 @@ Main.ModelSetup.SubjectSpecificData =
 // This sets the Anthropometrics for all trials for this subject
 Main.HumanModel.Anthropometrics = 
 {
-     BodyMass = 84.6;
-     BodyHeight = 1.775;   
+     BodyMass = 63.8;
+     BodyHeight = 1.604;   
    
    // These antrhopometric data will be used as initial guess for 
    // the optimization alogorithm for segment length. Default length 
